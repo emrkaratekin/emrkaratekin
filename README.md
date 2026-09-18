@@ -5,11 +5,9 @@
 [![Email](https://img.shields.io/badge/Email-emirkaratekin96%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:emirkaratekin96@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-emir--karatekin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/emir-karatekin)
 [![Website](https://img.shields.io/badge/Website-emirkaratekin.pl-000000?style=flat&logo=firefox&logoColor=white)](https://emirkaratekin.pl)
-
+[![Phone](https://img.shields.io/badge/Phone-%2B48%20797%20037%20087-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+48797037087)
 
 ---
-
-## 🇬🇧 English
 
 Recent Computer Science graduate specializing in Mobile Application Design, currently pursuing a Master's degree while working on Java backend development and software engineering. Experienced in building web, mobile and e-learning platforms with **Java, Kotlin, Spring Boot, React Native and SQL**. Looking for a Junior Software Engineer role where I can keep growing.
 
@@ -17,28 +15,6 @@ Recent Computer Science graduate specializing in Mobile Application Design, curr
 - 🌱 Currently learning: advanced Spring Boot & backend architecture
 - 🎓 Master's in Computer Science, Vizja University, Warsaw (ongoing)
 - 📫 Reach me at **emirkaratekin96@gmail.com**
-
----
-
-## 🇵🇱 Polski
-
-Absolwent informatyki ze specjalizacją w projektowaniu aplikacji mobilnych, obecnie kontynuuję studia magisterskie i rozwijam się w kierunku backendu w Javie oraz inżynierii oprogramowania. Mam doświadczenie w tworzeniu aplikacji webowych, mobilnych i platform e-learningowych z użyciem **Javy, Kotlina, Spring Boot, React Native i SQL**. Szukam pracy jako Junior Software Engineer, w której będę mógł się dalej rozwijać.
-
-- 🔭 Obecnie pracuję nad **VitalSync** — aplikacją zdrowotno-fitnessową opartą na AI (React, FastAPI, computer vision)
-- 🌱 Obecnie uczę się: zaawansowanego Spring Boot i architektury backendu
-- 🎓 Studia magisterskie z informatyki, Vizja University, Warszawa (w trakcie)
-- 📫 Kontakt: **emirkaratekin96@gmail.com**
-
----
-
-## 🇹🇷 Türkçe
-
-Mobil Uygulama Tasarımı alanında uzmanlaşmış, yeni mezun bir Bilgisayar Mühendisliği öğrencisiyim; şu anda yüksek lisansıma devam ederken Java backend geliştirme ve yazılım mühendisliği üzerine çalışıyorum. **Java, Kotlin, Spring Boot, React Native ve SQL** kullanarak web, mobil ve e-öğrenme platformları geliştirme deneyimim var. Kendimi geliştirmeye devam edebileceğim bir Junior Software Engineer pozisyonu arıyorum.
-
-- 🔭 Şu anda **VitalSync** üzerinde çalışıyorum — yapay zeka destekli sağlık & fitness uygulaması (React, FastAPI, görüntü işleme)
-- 🌱 Şu anda öğrendiklerim: ileri seviye Spring Boot ve backend mimarisi
-- 🎓 Bilgisayar Bilimleri Yüksek Lisans, Vizja University, Varşova (devam ediyor)
-- 📫 Bana ulaşın: **emirkaratekin96@gmail.com**
 
 ---
 
