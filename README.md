@@ -30,13 +30,23 @@ Recent Computer Science graduate specializing in Mobile Application Design, curr
 
 ## 🚀 Featured Projects
 
-- **[VitalSync](https://github.com/emrkaratekin)** — AI-driven personal health & fitness ecosystem: AI diet planner, camera-based food recognition, real-time BMI/BMR/TDEE analytics. Built with React, FastAPI & SQLite.
+- **[VitalSync](https://github.com/emrkaratekin/VitalSync---Diet-Healthy-Life-Application)** — AI-driven personal health & fitness ecosystem: AI diet planner, camera-based food recognition, real-time BMI/BMR/TDEE analytics. Built with React, FastAPI & SQLite. ⭐
 - **[SPARTA](https://mobad.pl/project/sparta/)** — Cybersecurity training platform for sports coaches (web + mobile).
 - **[FutureCoach](https://mobad.pl/project/futurecoach/)** — Mobile learning app for sports coaches, awarded the EU Commission's "Good Practice" label.
 - **[PRO-SECURE](https://mobad.pl/project/pro-secure/)** — Scenario-based e-learning platform on digital safety, awarded the "Good Practice" label.
-- **Hospital Appointment System** — Java/Spring Boot booking system.
-- **Employee Management App** — Spring Boot + React full-stack project.
-- **Raffle Draw App** — Spring Boot + React application.
+- **[Moto Service Manager](https://github.com/emrkaratekin/moto-service-manager)** — Motorcycle service management web app.
+- **[DisasterWatch](https://github.com/emrkaratekin/disasterwatch)** — Real-time disaster tracking & alerting app. ⭐
+- **[Traveler Notes](https://github.com/emrkaratekin/TRAVELER_NOTES)** — Note-taking app for travelers. ⭐
+- **[Hero Camera Project](https://github.com/emrkaratekin/HeroCameraProject)** — Camera-based TypeScript project. ⭐
+- **[Hospital Appointment System](https://github.com/emrkaratekin/hospital-appointment-system)** — Java/Spring Boot booking system.
+- **[Employee Management App](https://github.com/emrkaratekin/spring-boot-react-employee-management)** — Spring Boot + React full-stack project. ⭐
+- **[Raffle Draw App](https://github.com/emrkaratekin/spring-boot-react-raffle-draw)** — Spring Boot + React application.
+- **[Water Intake Reminder](https://github.com/emrkaratekin/Water_Intake_Reminder)** — Reminder app to track daily water intake.
+- **[Currency Exchange App](https://github.com/emrkaratekin/Currency-Exchange-App)** — Java currency conversion app.
+- **[Ambient Task Manager](https://github.com/emrkaratekin/AmbientTaskManager)** — TypeScript task management app.
+- **[Personal Website](https://github.com/emrkaratekin/emrkaratekin.github.io)** — [emirkaratekin.pl](https://emirkaratekin.pl) portfolio site.
+
+📌 See all repositories on my [GitHub profile](https://github.com/emrkaratekin?tab=repositories).
 
 ## 📊 GitHub Stats
 
