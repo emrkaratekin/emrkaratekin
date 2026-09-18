@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-emirkaratekin96%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:emirkaratekin96@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-emir--karatekin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/emir-karatekin)
 [![Website](https://img.shields.io/badge/Website-emirkaratekin.pl-000000?style=flat&logo=firefox&logoColor=white)](https://emirkaratekin.pl)
-[![Phone](https://img.shields.io/badge/Phone-%2B48%20797%20037%20087-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+48797037087)
+
 
 ---
 
